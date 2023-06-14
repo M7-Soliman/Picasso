@@ -1,0 +1,7 @@
++=Plus
+-=Minus
+*=Multiply
+/=Divide
+%=Mod
+^=Exponentiate
+/!=Bang
